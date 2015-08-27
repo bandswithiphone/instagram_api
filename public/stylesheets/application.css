@@ -1,0 +1,71 @@
+
+body {
+  background: #EDEDED;
+}
+.photos li, .photos li {
+  display: inline-block;
+  width: 256px;
+  height: 256px;
+  margin: 0px 20px 20px 0px;
+}
+/*.photos, .latest {
+  width: 1004px;
+  margin: auto;
+}*/
+
+/*details {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    margin: 0;
+    background: rgba(255,255,255,0.9);
+    font-size: 15px;
+    text-transform: none;
+    color: #434444;
+}*/
+img, .insta_photo {
+  display: inline-block;
+  width: 269px;
+  height: 286px;
+  border-radius: 6px;
+  vertical-align: middle;
+
+}
+.username {
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  margin-top: 6px;
+  margin-bottom: 21px;
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Lato';
+  font-size: 36px;
+  padding: 20px;
+  font-weight: bold;
+  color: #4F4F4F;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+img {
+  border-radius: 10px;
+  border: 1px solid #DEDEDE;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+span {
+  font-family: 'Garamond';
+  font-size: 24px;
+  text-align: center;
+  display: block;
+  padding: 10px 0px;
+}
+
+p {
+  font-style: italic;
+}
